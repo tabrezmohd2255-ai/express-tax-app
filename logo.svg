@@ -1,0 +1,9 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo mark -->
+  <rect x="0" y="4" width="32" height="32" rx="8" fill="#0B1F33"/>
+  <path d="M16 12L24 20H8L16 12Z" fill="#D4AF37"/>
+  <rect x="10" y="22" width="12" height="8" rx="2" fill="#D4AF37"/>
+
+  <!-- Logotype -->
+  <text x="44" y="28" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#0B1F33">Express Tax</text>
+</svg>
